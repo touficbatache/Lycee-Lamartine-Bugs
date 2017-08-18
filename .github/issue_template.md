@@ -2,8 +2,7 @@
 
 ## Feature Requests
 
-> If you're interested in requesting a feature request, you can do so here! Just type your request on the line below.
-> 
+> If you're interested in requesting a feature request, you can do so here! Just replace this line with your request.
 
 ## Bugs
 
